@@ -29,14 +29,12 @@ Clone the repository:
 git clone https://github.com/ricknyss/digital-mind-simulator.git
 
 Run the program:
-
-python main.py
-
-
 ## Project Structure
 
+```
 digital-mind-simulator
 │
 ├── main.py        # main program loop
 ├── mind.py        # digital mind logic
 └── README.md      # project documentation
+```
