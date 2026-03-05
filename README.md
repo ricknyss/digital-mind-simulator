@@ -32,7 +32,6 @@ Run the program:
 
 python main.py
 
-## Project Structure
 
 ## Project Structure
 
