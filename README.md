@@ -26,7 +26,7 @@ Python
 
 Clone the repository:
 
-git clone https://github.com/ricknyss/digital-mind-simulator
+git clone https://github.com/ricknyss/digital-mind-simulator.git
 
 Run the program:
 
