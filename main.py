@@ -13,6 +13,7 @@ while True:
     print("3. Sleep")
     print("4. Relax")
     print("5. Exit")
+    print("6. Exxit")
 
     choice = input("Enter choice: ")
 
